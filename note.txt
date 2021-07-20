@@ -1,0 +1,4 @@
+1_chạy
+    node index.js
+2_Cài ejs
+    npm install ejs

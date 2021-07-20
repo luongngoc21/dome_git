@@ -1,0 +1,19 @@
+.box{
+    float: left;
+    width: 1000px;
+
+}
+.child-1{
+    color: red;
+
+
+
+}
+.child-2{
+    color: green;
+
+
+}
+.child-3 {
+    color: orange;
+}

@@ -1,0 +1,30 @@
+p{
+    color: rgb(64, 86, 118);/*RGB HEX (0 1 2 3 4 5 6 7 8 9 A B C D E F)NAME*/
+    background-color: aliceblue;/*màu nền*/
+    background-image: url("");/*ảnh nền*/
+   /*background-size: contain;*/
+    background-repeat: no-repeat;/*khong lăp, repeat-x lăp theo ngang, repeat-y lặp theo dọc*/
+
+    font-size: 25px;
+    font-family: "Roboto Light",sans-serif;
+    font-weight: 100;/*độ đậm nhạt chữ: 100 300 400(normal) 500 600 700(bold) 800 */
+    text-decoration: overline;/*gach chữ underline line-through overline none */
+    text-transform: capitalize;/* lowercase uppercase capitalize(viết hoa chữ cái đầu mỗi từ) none */
+    line-height: 1.5;/* tương đương 37.5px */
+    text-indent: 25px;/* lùi đầu đoạn văn */
+    font-style: italic;/* italic = in nghiêng */
+    text-align: justify;/*căn lề trái phải giữa và căn đều(justify)*/
+
+    /*
+        Nguyên lý cây thư mục:
+        ../đi lên (ko dc gọi tên thư mục cha)
+        thư muc ->đi sang (vào thư muc)
+        tên tệp --> đi xuống
+    */
+}
+h2{
+    color: red;
+}
+h1{
+    color: #aabbcc;
+}

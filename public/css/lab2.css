@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+    background-image: url("../images/pexels-photo-1406866.jpeg");
+    background-size: cover;
+}
+p{
+    font-size: 20px;
+    text-indent: 25px;
+
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    color: crimson;
+}
+h2{
+    color: blue;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+li{
+    font-size: 20px;
+}
